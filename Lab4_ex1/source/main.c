@@ -1,8 +1,8 @@
 /*	Author: yxing024
  *  Partner(s) Name: Hao Wu
- *	Lab Section:
- *	Assignment: Lab #  Exercise #
- *	Exercise Description: [optional - include for your own benefit]
+ *	Lab Section:4
+ *	Assignment: Lab #  Exercise1 #
+ *	Exercise Description: [light]
  *
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
